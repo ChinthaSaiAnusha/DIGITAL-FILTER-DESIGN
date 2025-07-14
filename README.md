@@ -24,3 +24,4 @@ All the design files, testbench code, and waveform screenshots are documented an
 
 
 OUTPUT OF THE TASK 
+![Image](https://github.com/user-attachments/assets/7d44925c-edfb-4b8c-8388-2f015b8cd826)
